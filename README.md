@@ -1,6 +1,6 @@
 <a href="kodi.tv">KODI<a> / XBMC / Firestick audio addon for the <a href="https://grimerica.ca">Grimerica</a> podcast.<br>
 
-<img src="https://grimerica.ca/wp-content/uploads/2019/08/cropped-stamplogosquare-32x32.png"><br>
+<img src="https://grimerica.ca/wp-content/uploads/2019/08/grimerica-logo.png"><br>
 
 A loose cannon podcast featuring casual conversations with whomever we deem interesting, often on the fringe, Like Coast to Coast, but on demand. The podcast features guest from fields ranging from ufos to conspiracies to psychedelics, meditation, consciousness, Spirituality, Paranormal, Folklore and more. The Show is Ad, Sponsor and Affiliate free and 100% Listener Supported.<br>
 
